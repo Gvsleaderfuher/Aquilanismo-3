@@ -9,12 +9,12 @@
 		"startIntroPart1": "Pelo poder da águia, lideraremos a nação para glória!",
 		"startIntroPart2": "Os Comuna e liberal vão ser obliterados!!",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Aqueles que se opoe a Áquila encontrara sua fúria!",
+		"attacked": "Eles ousam atacar a Áquila? a resposta será devastadora.",
+		"defeated": "Nossa queda é temporária, a Áquila sempre renasce.",
+		"introduction": "A ordem e o poder do aquilanismo guiará o mundo a seu verdadeiro destino.",
 		
-		"neutralHello": "How are you doing?",
+		"neutralHello": "Como podemos Fortalecer nossa aliança?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
 		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
 		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
@@ -27,11 +27,11 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [0,0,0],
+		"innerColor": [255,0,0],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
+		"cities": ["Aquila Prime","Nova Águia","Cidadela imperial","Fortaleza Da Fé","Pico da Águia","Guardiões","Vigila Do Norte","Morro Da linguiça","Cidade da bronha",
+			"Campo De Morais","Quartel de Major David","Guloso Guimarães","Cabisbaixo","Porra Vara","Vargas Morte","Maleza Comis","Introspecto","Q'"Mare Morto","Xibata Longa",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
 	}
